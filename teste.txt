@@ -3,5 +3,9 @@ jashvudhdxnygihqnwygfuygwuygfueygxqw
 
 
 
+<<<<<<< HEAD
 
 adicionando linha localmente, pra ver a merda que vai dar
+=======
+adicionando linha para teste de conflito
+>>>>>>> 78074147d6cdd65f8cd15a62bd31255ffd09f724
